@@ -7,3 +7,5 @@ Project objective: To develop a secure and usable multimodal In-Vehicle Infotain
 * Android app development
 * Material Design
 * MVC Architecture
+* A little bit of JSON
+* Some understanding of the Google Maps API
